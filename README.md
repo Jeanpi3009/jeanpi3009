@@ -5,12 +5,6 @@
     <h1 align="center">Hi 😀, I’m @Jeanpi3009<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
     <h3 align="center">A passionate frontend developer from colombia</h3>
 </div>
-<div id="badges" align="center">
-    <a href="https://twitter.com/JeanArkenix">
-        <img src="https://img.shields.io/twitter/follow/JeanArkenix?color=purple&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
 
 ### 👀 About me:
 - 🌱 I am currently studying Python
