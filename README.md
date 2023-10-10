@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/31/45/ea/3145ea8e02c197acb017dcf04a15a340.gif"  />
         
  [![](https://visitcount.itsvg.in/api?id=Jeanpi3009&icon=0&color=0)](https://visitcount.itsvg.in)
     <h1 align="center">Hi 😀, I’m @Jeanpi3009<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
